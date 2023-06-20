@@ -1,0 +1,8 @@
+openai
+chromadb
+langchain
+tiktoken
+unstructured
+pdfminer-six
+pdf2image
+gradio

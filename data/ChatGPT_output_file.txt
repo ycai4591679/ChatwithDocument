@@ -1,0 +1,217 @@
+诽谤诉讼 
+2023年4月，据路透社报道，澳大利亚墨尔本 西部赫本郡的市长 布莱恩•胡德指控OpenAI旗下
+的ChatGPT 对其进行 诽谤，或将对该公司提起 诉讼，因为该聊天机器人在回答问题时错误地声称他
+在一桩贿赂丑闻中有罪。一旦正式提起，这将是全球首例针对生成式 AI的诽谤诉讼。 [41]
+  
+谨慎使用 
+2023年4月10日，中国支付清算协会 表示，近期， ChatGPT 等工具引起各方广泛关注，已有
+部分企业员工使用 ChatGPT 等工具开展工作。但是，此类智能化工具已暴露出跨境数据 泄露等风
+险。为有效应对风险、保护客户隐私、维护数据安全，提升支付清算行业的数据安全管理水平，根据
+《中华人民共和国网络安全法 》《中华人民共和国数据安全法 》等法律规定，中国支付清算协会向行
+业发出倡议，倡议支付行业从业人员谨慎使用 ChatGPT 。 [42]
+  
+2023年3月27日，日本 上智大学 在其官网上发布了关于 “ChatGPT 和其他AI聊天机器人 ”的评
+分政策。该政策规定，未经导师许可，不允许在任何作业中使用 ChatGPT 和其他AI聊天机器人生成
+的文本、程序源代码、计算结果等。如果发现使用了这些工具，将会采取严厉措施。 [43]
+  
+2023年4月3日，东京大学 在其内部网站上发布了一份题为 “关于生成式人工智能 ”的文件，文件
+指出，“报告必须由学生自己创造，不能完全借助人工智能来创造 ”。 [43]
+  
+2023年4月7日，京都大学 的入学仪式上，该大学校长凑长博表示， “人工智能生成的论文有很
+多问题，写作需要耗费大量精力，但它会加强你的心态和思考能力。 ” [43]
+  
+日本东北大学 在其官方网站上发布了一份关于使用生成式人工智能的通知，并敦促教师们重新思
+考如何布置作业和如何进行考试。例如，它建议 “在布置练习和报告之前检查人工智能将如何回答 ”，
+以及“改用要求学生在课堂上写作的考试形式 ”。 [43]
+  
+展开调查 
+2023年4月消息， 法国国家信息与自由委员会 (CNIL)接到有关 OpenAI公司旗下聊天机器人
+ChatGPT 的数份投诉，投诉认为 ChatGPT 违反《欧盟个人信息保护条例》 (RGPD)，涉嫌侵犯用户
+隐私、捏造不实信息。该委员会正在就接到的 ChatGPT 相关投诉展开调查。 [44]
+  
+2023年4月13日，欧盟中央数据监管机构 欧洲数据保护委员会 （EDPB）表示，正在成立一个
+特别工作组，帮助欧盟各国应对广受欢迎的人工智能聊天机器人 ChatGPT ，促进欧盟各国之间的合
+作，并就数据保护机构可能采取的执法行动交换信息。 [46]
+  
+ChatGPT是美国人工智能研究实验室新推出的一种驱动的工具，使用了Transformer架构，也是GPT-3.5架构，这是一种用于处理的模型，拥有和文本生成能力，尤其是它会通过连接大量的来训练模型，这些语料库包含了真实世界中的对话，使得ChatGPT具备上知天文下知地理，还能根据聊天的上下文进行互动的能力，做到与真正人类几乎无异的聊天场景进行交流。ChatGPT不单是，还能进行撰写、视频脚本、、、等任务。 [2] 
+在的官网上，ChatGPT被描述为优化对话的语言模型，是GPT-3.5架构的主力模型。
+ChatGPT具有同类产品具备的一些特性，例如对话能力，能够在同一个会话期间内回答上下文相关的后续问题。然而，其在短时间内引爆全球的原因在于，在网友们晒出的截图中，ChatGPT不仅能流畅地与用户对话，甚至能写诗、、。
+ChatGPT还采用了注重道德水平的训练方式，按照预先设计的，对不怀好意的提问和请求“说不”。一旦发现用户给出的文字提示里面含有恶意，包括但不限于、、等意图，都会拒绝提供有效答案。 [1] 
+2022年11月底，人工智能对话聊天机器人ChatGPT推出，迅速在社交媒体上走红，短短5天，注册用户数就超过100万。 [9] 
+2023年一月末，ChatGPT的月活用户已突破1亿，成为史上增长最快的消费者应用。 [14] 
+2023年2月2日，美国人工智能（AI）公司OpenAI发布ChatGPT试点订阅计划——ChatGPT Plus。ChatGPT Plus将以每月20美元的价格提供，订阅者可获得比免费版本更稳定、更快的服务，及尝试新功能和优化的优先权。 [7] 
+2023年2月2日，官方公告表示:旗下所有产品将全线整合ChatGPT，除此前宣布的、外，还将在云计算平台中整合ChatGPT，Azure的OpenAI服务将允许开发者访问AI模型。 [9] 
+2023年2月3日消息，行业的领导者们担心，大名鼎鼎的人工智能聊天机器人ChatGPT，已经被黑客们用于策划网络攻击时使用。 [8] 
+（Black Berry）的一份报告调查了500名IT行业决策者对ChatGPT这项革命性技术的看法，发现超过四分之三（76%）的人认为，外国已经在针对其他国家的中使用ChatGPT。近一半（48%）的人认为，2023年，将会出现有人恶意使用ChatGPT而造成“成功”的。 [8] 
+当地时间2023年2月2日，ChatGPT的开发公司——美国人工智能公司OpenAI顺势推出了这一应用程序的付费订阅版本。 [11] 
+The University of Notre Dame du Lac, known simply as Notre Dame ( ; ND), is a private   in , north of the city of . French priest  founded the school in 1842.  covers 1,261 acres (510 ) in a suburban setting and contains landmarks such as the , the  (commonly known as Touchdown Jesus), , and the . Originally for men (some women earned degrees in 1918), the university did not formally accept undergraduate female students until 1972.
+Notre Dame has been recognized as one of the top universities in the United States. The university is organized into seven schools and colleges. Notre Dame's graduate program includes more than 50 master, doctoral and professional degrees offered by the six schools, including the  and an  program offered in combination with the . The  is known for teaching  and for awarding the annual . The university offers more than 50 semester and year-long study programs abroad and over 15 summer programs.
+Notre Dame maintains a system of libraries, cultural venues, artistic and scientific museums, including the  and the . Most of the university's 8,000 undergraduates live on campus in one of , each with its own traditions, legacies, events, and  teams. The university's approximately 134,000 alumni constitute one of the strongest college alumni networks in the U.S.
+The university's athletic teams are members of the  and are known collectively as the . Notre Dame is noted for its , which contributed to its rise to prominence on the national stage in the early 20th century; the team, an  with no conference affiliation, has accumulated 11 consensus national championships, seven  winners, 62 members of the , and 13 of the . Notre Dame teams in other sports, chiefly in the , have accumulated 17 national championships. The  is one of the most famous and recognizable collegiate fight songs.
+Notre Dame's profile grew in the early 20th century, aided by the success of its football team under coach . Major improvements to the university occurred during 's administration between 1952 and 1987. His administration increased the university's resources, academic programs, and its reputation. Since then, the university has seen steady growth, and under the leadership of the next two presidents,  and , many infrastructure and research expansions have been completed. Notre Dame's growth has continued in the 21st century. At the end of the  2022, its  was valued at $20.3 billion, one of the largest among U.S. universities.
+History[]
+Main article: 
+Foundations[]
+In 1842, the bishop of Vincennes, , offered land to  of the , on the condition that he build a college in two years. , the first priest ordained in the United States, who had come to the area invited by  chief  to minister to his tribe, had bought these 524 acres (212 ha) of land in 1830. Sorin arrived on the site with eight Holy Cross brothers from France and Ireland on November 26, 1842, and began the school using Badin's old . After enrolling two students, Sorin soon erected more buildings, including the , the first church, and the first main building. Notre Dame began as a primary and secondary school; in 1844 it received its official college charter from the , under the name the University of Notre Dame du Lac (University of Our Lady of the Lake). Because the university was originally all-male, the  founded the female-only  near Notre Dame in 1844.
+
+, founder of the university, photographed in 1890
+Early history[]
+The college awarded its first degrees in 1849. As it grew under the presidency of Sorin and his successors, new academic programs were offered and new buildings built to accommodate the growing student and faculty population. The brief presidency of Patrick Dillon (1865–1866) saw the original main building replaced with a larger one, which housed the university's administration, classrooms, and dormitories. Under 's first administration, enrollment at Notre Dame increased to over 500 students. In 1869, he opened the , which offered a two-year course of study, and in 1871 he began construction of Sacred Heart Church, today the . Two years later,  started a library in the Main Building, which had 10,000 volumes by 1879.
+
+The current , built after the great fire of 1879
+Fire destroyed the Main Building and the library collection in April 1879; the school closed immediately and students were sent home. Sorin (then provincial Superior) and President Corby immediately planned for the rebuilding of the structure that had housed virtually the entire university. Construction began on May 17, and by the incredible zeal of administrators and workers,  was completed before the fall semester of 1879. The library collection was rebuilt and housed in the new Main Building.
+
+欢迎来到 Onboard 真实的一线经验 走新的投资思考 我是 Monica 我是高宁 我们一起聊聊软件如何改变世界 大家好 欢迎来到 Onboard 我是 Monica 自从OpenAI发布的ChatGBT 掀起了席卷世界的AI热潮 不到三个月就积累了 超过一亿的越货用户 超过1300万的日货用户 真的是展现了AI让人惊讶的 也让很多人直呼 这就是下一个互联网的未来 有不少观众都说 希望我们再做一期AI的讨论 于是这次硬核讨论就来了 这次我们请来了 Google Brain的研究员雪芝 她是Google大语言模型PALM Pathway Language Model的作者之一 要知道这个模型的参数量 是GPT-3的三倍还多 另外还有两位AI产品大牛 一位来自著名的StableDM 背后的商业公司Stability AI 另一位来自某硅谷科技大厂 也曾在吴恩达教授的Landing AI中 担任产品负责人 此外 莫妮凯还邀请到一位 一直关注AI的投资人朋友Bill 当做我的特邀共同主持嘉宾 我们主要讨论几个话题 一方面从研究的视角 最前沿的研究者在关注什么 现在技术的天花板 和未来大的变量可能会在哪里 第二个问题是 未来大的变量可能会在哪里 从产品和商业的角度 什么是一个好的AI产品 整个生态可能随着技术 有怎样的演变 更重要的 我们又能从上一波 AI的创业热潮中学到什么 最后 莫妮凯和Bill还会从投资人的视角 做一个回顾 总结和畅想 这里还有一个小的update 在本集发布的时候 Google也对爆发式增长的 Chad GPT做出了回应 正在测试一个基于Lambda 模型的聊天机器人 ApprenticeBot 正式发布后会有怎样的惊喜 我们都拭目以待 AI无疑是未来几年 最令人兴奋的变量之一 莫妮凯也希望未来能邀请到更多 一线从业者 从不同角度讨论这个话题 不论是想要做创业 研究 产品 还是投资的同学 希望这些对话 对于大家了解这些技术演进 商业的可能 甚至未来对于我们每个人 每个社会意味着什么 都能引发一些思考 提供一些启发 这次的讨论有些技术硬核 需要各位对生成式AI 大模型都有一些基础了解 讨论中涉及到的论文和重要概念 也会总结在本集的简介中 供大家复习参考 几位嘉宾在北美工作生活多年 夹杂英文在所难免 也请大家体谅了 欢迎来到未来 希望大家enjoy
+
+
+
+1
+ChatGPT风靡全球，
+AIGC：挑战与机遇
+2
+3
+大语言模型风起云涌，引发全社会高度关注
+
+01
+ChatGPT的出现似乎已经让大家预见了AI应用的拐点，其创造性与智能性一夜之间刷新了大众认知,引发全社会高度关注
+各大科技公司争先恐后开发大语言模型
+阿里通义千问
+
+
+AIGC的能力来源于内容生成的多种类型，辐射多个应用场景及行业
+
+01
+AIGC促进各行业转型升级
+
+01
+AIGC: 利用人工智能产生内容，提升生产力曲线
+
+01
+利用AIGC可实现代码生成、测试、Bug修复，图像的检测、分割与生成，文本问答，音频和视频的产生等
+
+8
+ChatGPT——生成式AI迎来拐点，商用落地前景可期
+OpenAI在成立之初便备受资本瞩目，与微软合作加速商业化进程
+
+02
+ChatGPT是由OpenAI 团队研发创造，OpenAI是由创业家埃隆·马斯克、美国创业孵化器Y Combinator总裁阿尔特曼、全球在线 支付平台PayPal联合创始人彼得·蒂尔等人于2015年在旧金山创立的一家非盈利的AI研究公司，拥有多位硅谷重量级人物的资 金支持，启动资金高达10亿美金；OpenAI的创立目标是与其它机构合作进行AI的相关研究，并开放研究成果以促进AI技术的
+发展
+2019年7月
+2020年6月
+2020年9月
+OpenAI发展的里程碑
+微软向OpenAI投资了  10亿美金，并获得了 OpenAI技术的商业化 授权。从此，OpenAI 的一些技术开始出现 在微软的产品和业务 上
+OpenAI发布了OpenAI  API，这是OpenAI第 一个商业化产品，  OpenAI正式开始了商 业化运作
+OpenAI授权微软使用  GPT-3模型，微软成 为全球首个享用GPT-  3能力的公司
+2019年3月
+
+图1：OpenAI发展势头强劲，商业化趋势明显
+OpenAI宣布从”非盈 利 “性质过度到”封 顶盈利“性质，利润 上限为任何投资的100 倍（创立了OpenAI  LP公司）
+
+
+10
+
+
+02
+11
+来龙：AIGC产业的发展来自于算法、数据及算力的综合推动
+
+02
+12
+ChatGPT如何演化而来
+
+02
+
+13
+AI技术宏观演进趋势：大模型一定越大越好吗？
+
+02
+14
+来龙：ChatGPT如何演化而来？
+
+02
+AI算法演化之路：火爆的算法在经典算法之上优化而来
+15
+ChatGPT为何比其他AI模型效果好？
+
+02
+16
+
+02
+ChatGPT如何演化而来
+17
+18
+人工智能促进岗位迭代
+
+03
+高盛的ChatGPT劳动力市场报告指出，像ChatGPT这样的生成式人工智能系统可能会对就业市场造成“重大破坏”，并影响大型经济体中多达3亿名全职员工。在美国和欧洲，有1/4的工作可以通过AI实现自动化；
+全球预计将有3亿个工作岗位被生成式AI取代，其中白领工作比如律师和行政人员所面临的风险最大
+
+19
+人工智能促进岗位迭代
+
+03
+据OpenAI和宾夕法尼亚大学研究结果进一步说明，科学和批判性思维技能与暴露程度呈强烈负相关，这表明需要这些技能的职业，不太可能受到当前语言模型的影响。与之相反，编程和写作技能与暴露程度呈正相关，相关职业也就更容易受到震荡；
+对于 19% 的岗位，至少 50% 的工作内容会被影响；对于 80% 的岗位，也至少有 10% 的工作内容被或多或少地波及
+
+
+
+20
+ChatGPT的短期问题
+
+03
+短期来看，ChatGPT仍存在诸多不足，亟待解决的问题主要有两方面：合规性问题和技术性问题
+4月11日国家互联网信息办公室起草了《生成式人工智能服务管理办法（征求意见稿）》
+21
+22
+AI不会取代你，会用AI的人会取代你
+
+04
+
+
+
+
+
+
+
+敏捷迭代
+23
+以人为本的时代
+
+04
+以人为本
+ChatGPT不会取代的人的核心能力：审美能力、整合能力、共情能力、讲故事的能力、玩的能力、意义感、
+
+工具是由人创造与使用的
+     --君子生非异也，善假于物也
+     --人不行，再好的机器也没用
+
+人 -> 利用工具 -> 依照流程 -> 把事做了
+    --全流程再造，全流程赋能
+    --全员升级，全员赋能
+
+理解机器的运行机制，才能成为机器的主人
+    --机器“蒸馏”人类知识
+    --人类学会教机器做事…
+
+学习与教育
+   --允许‘抄袭’的考试
+   --任务式学习+模块化学习
+   --推平知识的‘烟囱’
+   --兴趣是最好的老师
+
+人是一根脆弱的芦苇，但是是一根会思想的芦苇
+   --我们全部的尊严就在于思想。正是由于它而不是由于我们所无法填充的空间和时间我们才必须提高自己。因此，我们要努力好好地思想；这就是道德的原则-帕斯卡尔《思想录》
+
+合肥欣奕华智能机器股份有限公司
+
+
+未来呼啸而来，
+众人在等待，
+我们在迭代!
+汇报人：蔡盈
+play Lego on board
+               Type                                                                      Name                                                                                                                 Link
+0  Data engineering                        Build Data Engineering Projects, with Free Template              https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/#1-introduction
+1               NaN  Introducing MLflow 2.3: Enhanced with Native LLM Support and New Features  https://www.databricks.com/blog/2023/04/18/introducing-mlflow-23-enhanced-native-llm-support-and-new-features.html
+2               NaN                                                                Outerbounds                                                       https://outerbounds.com/blog/announcing-outerbounds-platform/
